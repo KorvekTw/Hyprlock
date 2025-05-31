@@ -149,3 +149,37 @@ If you have suggestions or want to contribute new designs, feel free to open an 
 ---
 
 **Make your Hyprland setup truly yours with this custom Hyprlock design!**
+
+
+## Attributions & External Scripts
+
+Some scripts and styling elements included in this repository have been sourced or adapted from third-party projects and community resources to enhance the aesthetics and functionality of Hyprlock.  
+Each external script or asset used is credited below, along with a brief description and a link to the original source if available.
+
+### List of Attributions
+
+- **[Script/Asset Name 1]**  
+  *Description of what it does and how it is used in this repository.*  
+  Original author/source: [link-to-original-source]
+
+- **[Script/Asset Name 2]**  
+  *Description of what it does and how it is used in this repository.*  
+  Original author/source: [link-to-original-source]
+
+- **[Script/Asset Name 3]**  
+  *Description of what it does and how it is used in this repository.*  
+  Original author/source: [link-to-original-source]
+
+*(Add as many as necessary. If you have modified the script, you can clarify it: "Modified for this setup")*
+
+---
+
+If you are the author of any script or asset included here and wish for it to be removed or further credited, please open an issue or contact me directly.
+
+---
+
+**Tagging and Organization:**  
+All third-party scripts and assets are clearly labeled in the repository, either in their filename, a comment at the beginning of the file, or in this section.  
+This helps distinguish original work from external contributions and ensures proper attribution.
+
+---
