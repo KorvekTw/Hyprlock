@@ -160,16 +160,8 @@ Each external script or asset used is credited below, along with a brief descrip
 
 - **[Script/Asset Name 1]**  
   *Description of what it does and how it is used in this repository.*  
-  Original author/source: [link-to-original-source]
-
-- **[Script/Asset Name 2]**  
-  *Description of what it does and how it is used in this repository.*  
-  Original author/source: [link-to-original-source]
-
-- **[Script/Asset Name 3]**  
-  *Description of what it does and how it is used in this repository.*  
-  Original author/source: [link-to-original-source]
-
+  Original author/source: https://github.com/MrVivekRajan
+  
 *(Add as many as necessary. If you have modified the script, you can clarify it: "Modified for this setup")*
 
 ---
