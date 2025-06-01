@@ -159,10 +159,10 @@ Each external script or asset used is credited below, along with a brief descrip
 ### List of Attributions
 
 - **[Script/Asset Name 1]**  
-  *Description of what it does and how it is used in this repository.*  
+  *The scripts that shows what song we are listening to through the lock screen (Hyprlock), is from the original author that we will tag below, the script has no changes*  
   Original author/source: https://github.com/MrVivekRajan
   
-*(Add as many as necessary. If you have modified the script, you can clarify it: "Modified for this setup")*
+*("Oh, problem")*
 
 ---
 
