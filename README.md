@@ -88,7 +88,7 @@ Follow these steps to use **this specific design** from my GitHub repository:
 
 ```bash
 git clone https://github.com/KorvekTw/hyprlock-custom.git
-cd hyprlock-custom
+cd hyprlock
 ```
 
 ### 2. Build and Install
@@ -132,16 +132,6 @@ Feel free to tweak the configuration in `~/.config/hyprlock` to better match you
 
 ---
 
-## Screenshots
-
-Add screenshots here to showcase your design!  
-For example:
-
-![screenshot1](screenshots/lockscreen1.png)
-![screenshot2](screenshots/lockscreen2.png)
-
----
-
 ## Feedback & Contributions
 
 If you have suggestions or want to contribute new designs, feel free to open an issue or pull request!
@@ -158,8 +148,8 @@ Each external script or asset used is credited below, along with a brief descrip
 
 ### List of Attributions
 
-- **[Script/Asset Name 1]**  
-  *The scripts that shows what song we are listening to through the lock screen (Hyprlock), is from the original author that we will tag below, the script has no changes*  
+- **MrVivekRajan**  
+  *The scripts that shows what song we are listening to through the lock screen (Hyprlock), is from the original author that we will tag below, the script has no changes, thank you*  
   Original author/source: https://github.com/MrVivekRajan
   
 *("Oh, problem")*
@@ -171,7 +161,5 @@ If you are the author of any script or asset included here and wish for it to be
 ---
 
 **Tagging and Organization:**  
-All third-party scripts and assets are clearly labeled in the repository, either in their filename, a comment at the beginning of the file, or in this section.  
-This helps distinguish original work from external contributions and ensures proper attribution.
-
+The scripts, it doest's haver any major changes, I copied it for aesthetic reasons to my hyprlock, thanks to the creador
 ---
